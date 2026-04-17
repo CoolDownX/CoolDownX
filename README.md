@@ -75,16 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoolDownX&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Dominik's GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolDownX&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ### 📬 Get in Touch
 
 If you would like to connect, feel free to drop me a message on LinkedIn.
