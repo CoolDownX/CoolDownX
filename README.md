@@ -1,88 +1,123 @@
-<h1 align="center">Hi, I'm Dominik 👋</h1>
+<h1 align="center">Hi, I'm Dominik</h1>
 
-<h3 align="center">AWS Solutions Architect & Full Stack Developer</h3>
+<h3 align="center">Freelance AWS Solutions Architect & Full Stack Developer</h3>
 
 <p align="center">
-  Designing and building cloud-native solutions on AWS — from scalable architectures to modern full-stack applications.<br/>
-  9+ years of enterprise experience in the automotive industry.
+  I design and build cloud-native systems on AWS, serverless first and hands-on from architecture to deployment.<br/>
+  10 years in software engineering, almost nine of them at BMW. Freelancer since 2026.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dominik-bauer-491054160" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/dominik-bauer-freelance"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://dominikbauer.net"><img src="https://img.shields.io/badge/dominikbauer.net-111111?style=for-the-badge" alt="Website"/></a>
+  <a href="https://www.freelancermap.de/profil/software-entwickler-und-cloud-architect-mit-aws-expertise"><img src="https://img.shields.io/badge/Freelancermap-00A3E0?style=for-the-badge" alt="Freelancermap"/></a>
 </p>
 
----
-
-### 🧭 About Me
-
-- ☁️ Certified **AWS Solutions Architect** (Professional & Associate)
-- 🏗️ I specialize in **cloud-native architectures**, data platforms, and full-stack development
-- 🚗 Extensive background in the **automotive industry** (enterprise scale, international teams)
-- 🤝 Experienced **technical lead** — led teams of up to 10 developers across distributed projects
-- 🌱 Continuous learner — currently deepening expertise in **Quarkus**, **Kafka**, and **Clean Architecture**
-- 🛠️ Pragmatic about AI tools: I use them where they add value and validate the output with my expertise
+<p align="center"><sub>Based in Bavaria, Germany · Available for remote projects</sub></p>
 
 ---
 
-### 🛠️ Tech Stack
+### About Me
 
-**Cloud & Infrastructure**
+- **AWS Certified Solutions Architect**, Professional and Associate
+- Focus on **serverless and cloud-native architectures**, data platforms and infrastructure as code
+- At BMW I led an **international team of 10 developers** on a cloud-native vehicle data platform (Digital Vehicle File)
+- Automotive shaped how I build: large-scale systems, distributed teams, data quality that has to hold up
+- Using **AWS CDK** continuously since 2022, in client work and in my own products
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+---
+
+### What I'm Building
+
+**[poe2base.com](https://poe2base.com)** · Companion tool for Path of Exile 2 with currency tracking and item pricing.
+Serverless data pipeline with EventBridge, Step Functions, S3 and DynamoDB. Frontend in Next.js on AWS via OpenNext and SST, behind CloudFront and WAF.
+
+<img src="https://skillicons.dev/icons?i=aws,ts,nextjs,dynamodb" height="36" alt="AWS, DynamoDB, TypeScript, Next.js"/>
+
+**[dominikbauer.net](https://dominikbauer.net)** · My portfolio site, same serverless Next.js stack.
+
+<img src="https://skillicons.dev/icons?i=aws,ts,nextjs" height="36" alt="AWS, TypeScript, Next.js, React"/>
+
+---
+
+### Tech Stack
+
+**Cloud & Infrastructure as Code**
+
+<p>
+  <img src="assets/badges/aws.svg" alt="AWS"/>
+  <img src="assets/badges/aws-cdk.svg" alt="AWS CDK"/>
+  <img src="assets/badges/sst.svg" alt="SST"/>
+  <img src="assets/badges/terraform.svg" alt="Terraform"/>
+  <img src="assets/badges/docker.svg" alt="Docker"/>
+</p>
+
+**AWS Services**
+
+| Area | Services |
+|---|---|
+| <img src="assets/dots/compute.svg" width="12" height="12" alt=""/>&nbsp; **Compute** | `Lambda` `ECS` |
+| <img src="assets/dots/integration.svg" width="12" height="12" alt=""/>&nbsp; **App Integration** | `Step Functions` `EventBridge` `SQS / SNS` |
+| <img src="assets/dots/storage.svg" width="12" height="12" alt=""/>&nbsp; **Storage & Database** | `S3` `DynamoDB` |
+| <img src="assets/dots/analytics.svg" width="12" height="12" alt=""/>&nbsp; **Analytics** | `Glue` |
+| <img src="assets/dots/networking.svg" width="12" height="12" alt=""/>&nbsp; **Networking & Security** | `CloudFront` `WAF` `Route 53` |
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p>
+  <img src="assets/badges/python.svg" alt="Python"/>
+  <img src="assets/badges/typescript.svg" alt="TypeScript"/>
+  <img src="assets/badges/java.svg" alt="Java"/>
+</p>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="assets/badges/dynamodb.svg" alt="DynamoDB"/>
+  <img src="assets/badges/postgresql.svg" alt="PostgreSQL"/>
+  <img src="assets/badges/mongodb.svg" alt="MongoDB"/>
+</p>
 
-**Web & APIs**
+**Web**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-555555?style=flat-square&logo=fastapi&logoColor=white)
+<p>
+  <img src="assets/badges/nextjs.svg" alt="Next.js"/>
+  <img src="assets/badges/react.svg" alt="React"/>
+</p>
 
-**DevOps & Tooling**
+**DevOps & Observability**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<p>
+  <img src="assets/badges/github-actions.svg" alt="GitHub Actions"/>
+  <img src="assets/badges/git.svg" alt="Git"/>
+  <img src="assets/badges/grafana.svg" alt="Grafana"/>
+</p>
 
 ---
 
-### 🏅 Certifications
+### Certifications
+
+- **AWS Certified Solutions Architect – Professional** · Amazon Web Services
+- **AWS Certified Solutions Architect – Associate** · Amazon Web Services
+
+<details>
+<summary>More certifications</summary>
+
+<br/>
 
 | Certificate | Issuer |
 |---|---|
-| ⭐ AWS Certified Solutions Architect – Professional | Amazon Web Services |
-| ✅ AWS Certified Solutions Architect – Associate | Amazon Web Services |
-| ✅ AWS Cloud Architect | Udacity |
-| ✅ Full Stack Developer | Udacity |
-| ✅ Design Skills and Advanced Features DF300 | MongoDB |
-| ✅ MongoDB Application Optimization DA640 | MongoDB |
-| ✅ DevOps with MongoDB Atlas OF500 | MongoDB |
-| ✅ ITIL® Foundation Certificate in IT Service Management | Exin |
+| AWS Cloud Architect | Udacity |
+| Full Stack Developer | Udacity |
+| Design Skills and Advanced Features (DF300) | MongoDB |
+| MongoDB Application Optimization (DA640) | MongoDB |
+| DevOps with MongoDB Atlas (OF500) | MongoDB |
+| ITIL® Foundation Certificate in IT Service Management | Exin |
 
----
-
-### 📬 Get in Touch
-
-If you would like to connect, feel free to drop me a message on LinkedIn.
-
-- 💼 [LinkedIn](https://linkedin.com/in/dominik-bauer-491054160)
+</details>
 
 ---
 
 <p align="center">
-  <sub>Built with ☁️ and a lot of <code>terraform apply</code></sub>
+  <sub>Built with ☁️ and a lot of <code>cdk deploy</code></sub>
 </p>
