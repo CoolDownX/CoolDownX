@@ -3,8 +3,8 @@
 <h3 align="center">Freelance AWS Solutions Architect & Full Stack Developer</h3>
 
 <p align="center">
-  I design and build cloud-native systems on AWS, serverless first and hands-on from architecture to deployment.<br/>
-  10 years in software engineering, almost nine of them at BMW. Freelancer since 2026.
+  I design and build cloud-native systems on AWS, serverless first from concept to production.<br/>
+  10 years in software engineering, round about 9 at BMW. Freelancer since 2026.
 </p>
 
 <p align="center">
@@ -20,21 +20,27 @@
 ### About Me
 
 - **AWS Certified Solutions Architect**, Professional and Associate
-- Focus on **serverless and cloud-native architectures**, data platforms and infrastructure as code
-- At BMW I led an **international team of 10 developers** on a cloud-native vehicle data platform (Digital Vehicle File)
-- Automotive shaped how I build: large-scale systems, distributed teams, data quality that has to hold up
-- Using **AWS CDK** continuously since 2022, in client work and in my own products
+- Enthusiastic personality with way too much fun at coding, also doing courses on new technology as a hobby - I know,
+  seems like I dont have any hobbys but I actually enjoy it most of the time
+- My focus is on **serverless and cloud-native architectures** that scale well from 1 user up to ∞ while optimizing cost
+  and usage
+- I have experience in leading as I had the honor to be one of the sub product owners of BMWs Digital Vehicle File
+  with a team of 10 amazing developers, planning and delivering several high tier use cases
+- My background in the automotive industry, shaped the way I think and work, focusing on large-scale applications that
+  can support use-cases in very complex environments while maintaining a clean architectural design that scales well
 
 ---
 
-### What I'm Building
+### What I'm Building as a hobby
 
-**[poe2base.com](https://poe2base.com)** · Companion tool for Path of Exile 2 with currency tracking and item pricing.
-Serverless data pipeline with EventBridge, Step Functions, S3 and DynamoDB. Frontend in Next.js on AWS via OpenNext and SST, behind CloudFront and WAF.
+**[poe2base.com](https://poe2base.com)** · Companion tool for Path of Exile 2 with currency exchange tracking for
+different leagues and further functionality to come. All built with a serverless data pipeline utilizing EventBridge,
+Step Functions, S3, DynamoDB as well as Next.js for the frontend part. The application is served via CloudFront
+worldwide and secured via WAF.
 
 <img src="https://skillicons.dev/icons?i=aws,ts,nextjs,dynamodb" height="36" alt="AWS, DynamoDB, TypeScript, Next.js"/>
 
-**[dominikbauer.net](https://dominikbauer.net)** · My portfolio site, same serverless Next.js stack.
+**[dominikbauer.net](https://dominikbauer.net)** · My own portfolio website using just Next.js with CloudFront. 
 
 <img src="https://skillicons.dev/icons?i=aws,ts,nextjs" height="36" alt="AWS, TypeScript, Next.js, React"/>
 
@@ -54,13 +60,13 @@ Serverless data pipeline with EventBridge, Step Functions, S3 and DynamoDB. Fron
 
 **AWS Services**
 
-| Area | Services |
-|---|---|
-| <img src="assets/dots/compute.svg" width="12" height="12" alt=""/>&nbsp; **Compute** | `Lambda` `ECS` |
-| <img src="assets/dots/integration.svg" width="12" height="12" alt=""/>&nbsp; **App Integration** | `Step Functions` `EventBridge` `SQS / SNS` |
-| <img src="assets/dots/storage.svg" width="12" height="12" alt=""/>&nbsp; **Storage & Database** | `S3` `DynamoDB` |
-| <img src="assets/dots/analytics.svg" width="12" height="12" alt=""/>&nbsp; **Analytics** | `Glue` |
-| <img src="assets/dots/networking.svg" width="12" height="12" alt=""/>&nbsp; **Networking & Security** | `CloudFront` `WAF` `Route 53` |
+| Area                                                                                                  | Services                                   |
+|-------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| <img src="assets/dots/compute.svg" width="12" height="12" alt=""/>&nbsp; **Compute**                  | `Lambda` `ECS`                             |
+| <img src="assets/dots/integration.svg" width="12" height="12" alt=""/>&nbsp; **App Integration**      | `Step Functions` `EventBridge` `SQS / SNS` |
+| <img src="assets/dots/storage.svg" width="12" height="12" alt=""/>&nbsp; **Storage & Database**       | `S3` `DynamoDB` `RDS`                      |
+| <img src="assets/dots/analytics.svg" width="12" height="12" alt=""/>&nbsp; **Analytics**              | `Glue` `SageMaker`                         |
+| <img src="assets/dots/networking.svg" width="12" height="12" alt=""/>&nbsp; **Networking & Security** | `CloudFront` `WAF` `Route 53` `VPC`        |
 
 **Languages**
 
@@ -105,19 +111,13 @@ Serverless data pipeline with EventBridge, Step Functions, S3 and DynamoDB. Fron
 
 <br/>
 
-| Certificate | Issuer |
-|---|---|
-| AWS Cloud Architect | Udacity |
-| Full Stack Developer | Udacity |
-| Design Skills and Advanced Features (DF300) | MongoDB |
-| MongoDB Application Optimization (DA640) | MongoDB |
-| DevOps with MongoDB Atlas (OF500) | MongoDB |
-| ITIL® Foundation Certificate in IT Service Management | Exin |
+| Certificate                                           | Issuer  |
+|-------------------------------------------------------|---------|
+| AWS Cloud Architect                                   | Udacity |
+| Full Stack Developer                                  | Udacity |
+| Design Skills and Advanced Features (DF300)           | MongoDB |
+| MongoDB Application Optimization (DA640)              | MongoDB |
+| DevOps with MongoDB Atlas (OF500)                     | MongoDB |
+| ITIL® Foundation Certificate in IT Service Management | Exin    |
 
 </details>
-
----
-
-<p align="center">
-  <sub>Built with ☁️ and a lot of <code>cdk deploy</code></sub>
-</p>
